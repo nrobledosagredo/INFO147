@@ -4,4 +4,5 @@ matplotlib
 ipympl
 pandas
 voila
+voila-material
 mplcursors
