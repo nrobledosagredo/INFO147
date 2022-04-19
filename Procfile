@@ -1,1 +1,1 @@
-web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --template=material --theme=dark --enable_nbextensions=True notebooks/Dashboard interactivo COVID19.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --template=material --theme=dark --enable_nbextensions=True notebooks/Dashboard_interactivo_COVID19.ipynb
